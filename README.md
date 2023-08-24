@@ -2,7 +2,7 @@
 
 ### Colégio Estadual Polivalente
 
-*Sou Matheus Alvesn Toledo, N: 38, Serie: 2° B*
+*Sou Matheus Alves Toledo, N: 38, Serie: 2° B*
 
 - Sou estudante da rede ensino estudual
 - Estou estudando na Alura
